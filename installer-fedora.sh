@@ -2,7 +2,7 @@
 
 # Caution! I have only tested this script on Fedora 32.
 # This script will install Cisco Packettracer 7.3.1 in your /opt directory.
-# Idea credit to Philippe Pinchon on Ask Fedora: https://ask.fedoraproject.org/u/philpinch
+# Idea to make this script from https://ask.fedoraproject.org/t/how-to-install-new-cisco-packet-tracer-7-3-on-fedora-31-workstation/6047/8
 
 # Welcome message
 echo '
